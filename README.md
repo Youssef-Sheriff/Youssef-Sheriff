@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently Student as **Modern Academy Maddi**.
+- 🔭 I’m currently Student at **Modern Academy Maddi**.
 
 - 🌱 I’m currently learning **Backend .NET**.
 
