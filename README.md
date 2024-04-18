@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently Student at **Modern Academy Maddi**.
+- 🔭 I’m currently a Student at **Modern Academy Maddi**.
 
-- 🌱 I’m currently learning **Backend .NET**.
+- 🌱 I’m currently learning **Backend with Asp .NET**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Youssef-Sheriff?page=1&tab=repositories)**.
 
