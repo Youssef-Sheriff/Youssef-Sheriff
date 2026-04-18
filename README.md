@@ -1,87 +1,89 @@
-
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Youssef+Sherif!+😎;" />
+
+# Youssef Sherif
+
+**Java Backend Developer · Cairo, Egypt**
+
+[![Email](https://img.shields.io/badge/sherify766@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sherify766@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/youssef--sherif-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef--sherif)
+[![GitHub](https://img.shields.io/badge/Youssef--Sheriff-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Youssef-Sheriff)
+
 </div>
 
-<br>
+---
 
-## 🙋‍♂️ About Me:
+## About Me
 
-- 🔭 I’m currently a Student at **Modern Academy Maddi**.
+Computer Science graduate from Modern Academy (2025) focused on building clean, reliable backend systems.  
+I work primarily with **Java & Spring Boot**, and have hands-on experience with **ASP.NET Core** and **Django REST Framework**.  
+I enjoy designing RESTful APIs, thinking through architecture, and writing code that's easy to reason about.
 
-- 🌱 I’m currently learning **Backend with Asp .NET**.
+- 🏗️ Currently building **StaffSync** — an employee management system in Spring Boot
+- 🎓 Mentored **150+ students** in programming fundamentals through DECI & Coach Academy
+- 🏆 ICPC ECPC contestant — **Rank 61** (2024) · **Rank 117** (2023)
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/Youssef-Sheriff?page=1&tab=repositories)**.
+---
 
-<br>
+## Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frameworks & Tools**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Core Concepts**
+
+`RESTful APIs` · `JWT Authentication` · `Spring Security` · `OOP` · `Clean Architecture` · `Data Structures & Algorithms`
+
+---
+
+## Projects
+
+### [StaffSync](https://github.com/Youssef-Sheriff/StaffSync) &nbsp;·&nbsp; `In Progress`
+> Employee management system built with Java & Spring Boot
+
+- REST APIs for employees, departments, and leave requests
+- Layered architecture with DTO pattern, global exception handling, and input validation
+- JWT-based authentication and role-based authorization via Spring Security
+
+**Stack:** `Java` `Spring Boot` `MySQL` `Spring Security` `JWT`
+
+---
+
+### [BoneX](https://github.com/Youssef-Sheriff/BoneX) &nbsp;·&nbsp; `Graduation Project`
+> AI-assisted medical platform for X-ray analysis and doctor-patient interaction
+
+- Led backend development: authentication, profiles, and appointment booking APIs
+- Secure JWT access control and clean architecture throughout
+- Built with scalability and testability in mind
+
+**Stack:** `ASP.NET Core 8` `EF Core` `SQL Server` `JWT`
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| 📧 Email | [sherify766@gmail.com](mailto:sherify766@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/youssef--sherif](https://linkedin.com/in/youssef--sherif) |
+| 🐙 GitHub | [github.com/Youssef-Sheriff](https://github.com/Youssef-Sheriff) |
+
+---
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<sub>Open to backend engineering opportunities · Cairo, Egypt</sub>
 </div>
-<br>
-
-## 🚀 Languages and Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,cpp,java,python" />
-    <img src="https://skillicons.dev/icons?i=github,clion,vscode,idea,rider" /><br>
-</div>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-## 📊 My Stats:
-
-<p align="center">
-    <a href="https://github.com/Youssef-Sheriff/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Youssef Sherif's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef-Sheriff&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="Youssef Sherif's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Youssef-Sheriff&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/AmmarAgeeza/github-readme-stats"><img alt="Youssef Sherif's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Sheriff&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-## 🤝 Connect With Me:
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/youssef--sherif/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="mailto:sherify766@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-        <a href="https://youssefsherif.me">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-     </a>
-</div>
-
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
-
-## 💜 Views and Followers:
-
-<a href="https://github.com/Youssef-Sheriff/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Youssef-Sheriff">
-</a>
-<a href="https://github.com/Youssef-Sheriff?tab=followers"><img src="https://img.shields.io/github/followers/Youssef-Sheriff?label=Followers&style=social" alt="GitHub Badge"></a>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+😊;+Shoot+me+a+message+on+Linkedin!;I'm+a+Life+Long+Learner">
-</h3>
-
-<br/>
-
-
-<!---
-Youssef-Sheriff/Youssef-Sheriff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
